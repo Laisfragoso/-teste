@@ -1,0 +1,12 @@
+Algoritmo para apagar um post
+
+Passo 1: Peça para o usuário digitar o código do post.
+Passo 2: Verifique se o usuário digitou o código do post.
+  Se digitou guarde o código do post.
+  Senão volte para o Passo 1.
+Passo 3: Pergunte para o usuário se ele quer mesmo apagar o post com o código informado.
+  Se quiser apague o post e vá para o Passo 4.
+  Senão vá para o Passo 4.
+Passo 4: Pergunte se o usuário quer apagar outro post.
+  Se quiser vá para o Passo 1.
+  Senão encerre o algoritmo.
